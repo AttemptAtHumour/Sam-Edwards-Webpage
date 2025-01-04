@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
 
 /*
 	Hielo by TEMPLATED
@@ -18,6 +19,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+
+h2 {
+	font-family: Staatliches;
+}
 .image.fit img {
 	width: 100%;
 	height: auto;
