@@ -3535,7 +3535,7 @@ h2 {
 
 	.gallery {
 		width: 100%;
-		margin: 0 0 -4rem 0;
+		margin: 0 -4rem -4rem 0;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3567,7 +3567,7 @@ h2 {
 
 		.gallery > * {
 			padding: 0rem;
-			width: calc(33% + 0rem);
+			width: calc(33.33% + 0rem);
 		}
 
 		.gallery > :nth-child(-n + 2) {
@@ -3588,7 +3588,7 @@ h2 {
 
 		.gallery > :nth-child(3n + 1),
 		.gallery > :nth-child(2n) {
-			width: calc(33% + 0rem);
+			width: calc(33.33% + 0rem);
 		}
 
 		.gallery .image {
