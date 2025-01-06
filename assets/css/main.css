@@ -3566,7 +3566,7 @@ h2 {
 		}
 
 		.gallery > * {
-			padding: 2rem;
+			padding: 0rem;
 			width: calc(50% + 2rem);
 		}
 
@@ -3593,7 +3593,7 @@ h2 {
 
 		.gallery .image {
 			background: #FFF;
-			padding: 1rem;
+			padding: 0rem;
 		}
 
 			.gallery .image.fit {
